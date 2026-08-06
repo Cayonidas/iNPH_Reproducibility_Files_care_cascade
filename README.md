@@ -1,0 +1,2 @@
+Supplementary Material for: "From suspicion to shunt in idiopathic normal-pressure hydrocephalus: a systematic review and meta-analysis of the care cascade"
+Description This repository contains the supplementary data, analytical code, and extended results for the systematic review and meta-analysis titled "From suspicion to shunt in idiopathic normal-pressure hydrocephalus: a systematic review and meta-analysis of the care cascade".
